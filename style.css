@@ -22,6 +22,15 @@ body {
     border-radius: 5%;
 }
 
+.text-block p {
+    display: flex;
+    align-items: center;
+}
+
+.btn {
+    margin-left: 10px; /* добавляем отступ между текстом и кнопкой */
+}
+
 .buttons {
     display: flex;
     justify-content: center;
